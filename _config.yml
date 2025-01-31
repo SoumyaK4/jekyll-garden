@@ -1,8 +1,8 @@
 title: jekyll-garden
 description: A jekyll theme for semantically inclined digital gardeners.
-author: manunamz
-baseurl: ''
-# url: 'https://jekyll-garden.netlify.app'
+author: soumyak4
+baseurl: '/jekyll-garden'
+url: 'https://soumyak4.in'
 
 include:
   - "_pages"
